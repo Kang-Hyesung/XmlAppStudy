@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<memList>
+	<!-- memList.xml -->
+	
+	<memberInfo mid="1">
+		<name>강혜성</name>
+		<telephone><![CDATA[010-6380-7047]]></telephone>
+		<curriculum>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[JSP&Servlet]]></sub>			
+		</curriculum>
+		<zipCode>01234</zipCode>
+		<addr>서울시 서대문구 통일로</addr>
+	</memberInfo>
+	
+	<memberInfo mid="2">
+		<name>김지민</name>
+		<telephone><![CDATA[010-3937-6913]]></telephone>
+		<curriculum>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[JSP&Servlet]]></sub>			
+		</curriculum>
+		<zipCode>01234</zipCode>
+		<addr>파주시</addr>
+	</memberInfo>
+	
+	<memberInfo mid="3">
+		<name>이윤수</name>
+		<telephone><![CDATA[010-4580-7265]]></telephone>
+		<curriculum>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[JSP&Servlet]]></sub>			
+		</curriculum>
+		<addr>서울시 서대문구</addr>
+	</memberInfo>
+	
+	<memberInfo mid="4">
+		<name>정한울</name>
+		<telephone><![CDATA[010-5218-6153]]></telephone>
+		<curriculum>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[JSP&Servlet]]></sub>			
+		</curriculum>
+		<addr>경기도 파주시</addr>
+	</memberInfo>
+	
+	<memberInfo mid="5">
+		<name>박범구</name>
+		<telephone><![CDATA[010-2609-1830]]></telephone>
+		<curriculum>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[JSP&Servlet]]></sub>			
+		</curriculum>
+		<zipCode>01234</zipCode>
+		<addr>서울시 도봉구</addr>
+	</memberInfo>
+	
+	<memberInfo mid="6">
+		<name>길현욱</name>
+		<telephone><![CDATA[010-6678-9867]]></telephone>
+		<curriculum>
+			<sub>JAVA</sub>
+			<sub>ORACLE</sub>
+			<sub><![CDATA[JSP&Servlet]]></sub>			
+		</curriculum>
+		<zipCode>01234</zipCode>
+		<addr>서울시 구로구</addr>
+	</memberInfo>
+</memList>
